@@ -1,0 +1,8 @@
+.category{padding:10px 0; text-align:center; background:#fff; border-bottom:1px solid #e5e5e5;margin-bottom: 10px;}
+.category img{width:75%;}
+.category h4{margin:5px 0 0 0; font-size:12px;}
+@media screen and (min-width: 767px){	
+	.category h4{margin:5px 0 10px 0; font-size:16px;}
+	.category img{width:50%;}
+}
+.category img{margin:0 auto;}
